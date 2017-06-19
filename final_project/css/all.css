@@ -134,7 +134,7 @@ body{
 
 .main_content3 h3{
     border: 3px #008080 solid;
-    color: #008080;
+    color:#F3B05A;
     float: left;
     margin-right: 25%;
     font-size: 30px;
@@ -264,8 +264,8 @@ p {
 }
 
 h3{
-	margin-top: 20px;
-	font-size: 40px;
+  margin-top: 20px;
+  font-size: 40px;
   font-size: 50px;
   color:#F3B05A;
   /*text-shadow: 0 8px 9px #c4b59d, 0px -2px 1px #fff;*/
